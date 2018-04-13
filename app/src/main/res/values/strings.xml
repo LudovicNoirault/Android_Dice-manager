@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Dice Roll !</string>
+    <string name="title">Select the settings of your dice throw :</string>
+    <string name="nbDice">Number of dice ?</string>
+    <string name="nbFace">Number of faces ?</string>
+    <string name="total">The total of the dice throw is : </string>
+</resources>
